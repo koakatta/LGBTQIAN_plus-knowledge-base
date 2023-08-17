@@ -1,5 +1,5 @@
 # LGBTQIAN_plus-knowledge-base
-## A knowledge base about LGBTQIAN+ including sexual preference, ability to reproduce base on pairing
+## A knowledge base about LGBTQIAN+ including sexual preference, ability to reproduce based on pairing
 
 I apologize in advance for any misunderstanding that caused by this knowledge base and offence against any individual from inaccurate data in the knowledge base.
 
