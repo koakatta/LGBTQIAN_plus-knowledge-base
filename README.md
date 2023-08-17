@@ -5,6 +5,6 @@ I apologize in advance for any misunderstanding that caused by this knowledge ba
 
 Any comment is welcomed
 ## Reference
-1.https://www.thairath.co.th/lifestyle/life/2418192
+1. https://www.thairath.co.th/lifestyle/life/2418192 (accessed at 17/8/2023)
 ## Copyright
 Copyright (C) - All Rights Reserved <br>Unauthorized copying and distributing of this file, via any medium is strictly prohibited <br>Proprietary <br> Written by Korkatta Wasusophaphon <koakatta@gmail.com>, 17/08/2023
