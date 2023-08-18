@@ -1,4 +1,4 @@
-![](assets/images/banner.jpeg)
+<img src="assets/images/banner.jpeg" alt="banner" width="500" height="100">
 # LGBTQIAN_plus-knowledge-base
 ## A knowledge base about LGBTQIAN+ including sexual preference, ability to reproduce based on pairing
 
