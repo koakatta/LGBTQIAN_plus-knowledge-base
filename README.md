@@ -1,7 +1,7 @@
 # LGBTQIAN_plus-knowledge-base
 ## A knowledge base about LGBTQIAN+ including sexual preference, ability to reproduce based on pairing
 
-I apologize in advance for any misunderstanding that caused by this knowledge base and offence against any individual from inaccurate data in the knowledge base.
+I apologize in advance for any misunderstanding that caused by this knowledge base and any insult on any individual from the inaccuracy of the data in the knowledge base.
 
 Any comment is welcomed
 ## Reference
