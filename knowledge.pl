@@ -1,4 +1,7 @@
-female(f).
-male(m).
-heterosexual(x):-straight(x)
-can_reproduce(x,y):-heterosexual(x),heterosexual(y).
+female(female).
+male(male).
+straight(female).
+straight(male).
+intersex(intersex).
+heterosexual(X):-straight(X).
+can_reproduce(X,Y):-(male(X),female(Y));(male(Y),female(X)),X\=Y.
