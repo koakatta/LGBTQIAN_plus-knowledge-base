@@ -3,4 +3,10 @@ male(male).
 straight(female).
 straight(male).
 intersex(intersex).
+asexual(asexual).
+aromantic(aromantic).
 can_reproduce(X,Y):-(male(X),female(Y));(male(Y),female(X)),X\=Y.
+like_one_side_romantically(X,_):-Alloromantic(X)
+like_one_side_sexually(X,_):-Allosexual(X).
+alloromantic(X):-!aromantic(X).
+allosexual(X):-!asexual(X).
