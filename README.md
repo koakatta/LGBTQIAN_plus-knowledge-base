@@ -16,6 +16,6 @@ Any comment is welcomed
 1. http://www.kvccdocs.com/KVCC/MHT-STANDARD/2018-MHT-Spring/MHT125/lessons/L-04/lesson.html (accessed at 18/8/2023)
 1. https://www.medicalnewstoday.com/articles/types-of-sexuality#types (accessed at 18/8/2023)
 1. https://en.wikipedia.org/wiki/Human_reproduction (accessed at 18/8/2023)
-1. www.amzi.com/distribution/files/xsip_book.pdf&ved=2ahUKEwiGsJ_fnOqAAxVYPHAKHV9wA_IQFnoECA0QAQ&usg=AOvVaw1qTm2rAH6hQIliBFVUv6S5
+1. https://www.amzi.com/distribution/files/xsip_book.pdf
 ## Copyright
 Copyright (C) - All Rights Reserved <br>Unauthorized copying and distributing of this file, via any medium is strictly prohibited <br>Proprietary <br> Written by Korkatta Wasusophaphon <koakatta@gmail.com>, 17/08/2023
