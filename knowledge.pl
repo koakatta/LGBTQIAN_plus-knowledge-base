@@ -17,4 +17,4 @@ allosexual(X):-not(asexual(X));not(ako(X,asexual)).
 ako(autoromantic,allosexual).
 ako(biromantic,allosexual).
 ako(bisexual,allosexual).
-ako(demiromantic,asexual).
+ako(demiromantic,asexual).%add ask for more info
