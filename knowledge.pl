@@ -7,11 +7,15 @@ asexual(asexual).
 aromantic(aromantic).
 androsexual(androsexual).
 autoromantic(autoromantic).
+gay(gay).
+gynesexual(gynesexual).
 can_reproduce(X,Y):-(male(X),female(Y));(male(Y),female(X)),X\=Y.
 like_one_side_romantically(X,Y):-ako(X,alloromantic).
-like_one_side_sexually(X,Y):-ako(X,allosexual);(androsexual(X),male(Y)).
+like_one_side_sexually(X,Y):-ako(X,allosexual);(androsexual(X),male(Y));(gay(X),male(Y));(gynesexual(X),female(Y)).
 like_one_side_romantically(bicurious,_):-print(uncertain),false().
 like_one_side_sexually(bicurious,_):-print(uncertain),false().
+like_one_side_romantically(homoromantic,X,Y):-ako(X,alloromantic).
+like_one_side_sexually(X,Y):-
 alloromantic(X):-not(aromantic(X));not(ako(X,aromantic)).
 allosexual(X):-not(asexual(X));not(ako(X,asexual)).
 ako(autoromantic,allosexual).
