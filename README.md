@@ -13,6 +13,7 @@ Any comment is welcomed
 
 ## TODO
 - [ ] add more rules for intersex
+- [ ] research more
 ## Reference
 1. https://www.thairath.co.th/lifestyle/life/2418192 (accessed at 17/8/2023)
 1. http://www.kvccdocs.com/KVCC/MHT-STANDARD/2018-MHT-Spring/MHT125/lessons/L-04/lesson.html (accessed at 18/8/2023)
